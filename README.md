@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Jaeshub
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently in High School (Senior)
-- 💞️ I’m looking to collaborate on Prosthetics
 - 📫 How to reach me jaeho2025@gmail.com
 
 <!---
